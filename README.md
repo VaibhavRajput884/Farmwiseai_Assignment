@@ -1,5 +1,4 @@
 
-Dynamic Form Builder and Data Collection Web Application
 This web application is built using ReactJS and Redux to allow users to dynamically add fields for data collection based on their selection. The application consists of two main pages: one for adding fields dynamically and another for displaying the added fields for data collection.
 
 Table of Contents
